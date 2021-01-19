@@ -6,7 +6,7 @@
 <b>Back - end:    .NET Core 5</b> <br/>
 <b>Database:      SQL Server</b><br/><br/>
 
-![prtScr](https://github.com/Woodchucks/PasswordAPI/blob/main/prtScr.PNG)
+![prtScr](https://github.com/Woodchucks/PasswordAPI/blob/master/prtScr.PNG)
 
 Main goal of this exercise was to learn the basics of Angular 11
 and play with data inserting and retrieving it from the database.
